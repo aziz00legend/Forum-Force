@@ -26,7 +26,7 @@ Forum Force is a comprehensive web application designed to streamline the manage
   Visualize data such as company participation and event logistics with D3.js.
 
 ## Technology Stack
-- **Frontend:** Angular, D3.js
+- **Frontend:** Angular
 - **Backend:** Spring Boot
 - **Database:** MySQL
 
@@ -35,7 +35,7 @@ Forum Force is a comprehensive web application designed to streamline the manage
 ### Prerequisites
 - **Node.js** (recommended version: 14.x or later)
 - **Angular CLI** (install globally with `npm install -g @angular/cli`)
-- **Java JDK** (version 11 or higher)
+- **Java JDK** (version 17 or higher)
 - **MySQL** (version 5.7 or higher)
 - **Maven** for Spring Boot
 
