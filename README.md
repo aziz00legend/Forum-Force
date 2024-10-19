@@ -1,7 +1,7 @@
 # Forum Force — Corporate Forum Management Application
 
 ## Description
-Forum Force is a comprehensive web application designed to streamline the management of corporate forums. It provides an easy-to-use platform for managing organizing committees, participating companies, event logistics, and finances. The application features interactive data visualizations, role-based access control, and a modular system that meets the complex needs of large-scale corporate events.
+Forum Force is a comprehensive web application designed to streamline the management of Career Fair. It provides an easy-to-use platform for managing organizing committees, participating companies, event logistics, and finances. The application features interactive data visualizations, role-based access control, and a modular system that meets the complex needs of large-scale Career Fair.
 
 ## Features
 - **Organizing Committee Management:**
